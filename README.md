@@ -1,3 +1,5 @@
-# ControlCharts-PatternRecognition
-This is a Machine Learning model trained on synthetic data to pick out patterns from quantitative output of industrial process data which could indicate an out of control process.
-OneFunction is built such the function would perform the entire process of data normalization and model deployment along with cretion of control charts and implementation of other statistical formulas.
+ControlCharts Pattern Recognition
+This repository contains a machine learning model trained on synthetic data to identify patterns from quantitative output of industrial process data, which could indicate an "out of control process".
+
+Description
+Control charts are used in industrial settings to monitor process variability and maintain control over processes. This project aims to use machine learning to automatically recognize patterns in control charts that may suggest an out of control process. The model is trained on synthetic data generated to represent various patterns commonly seen in control charts.
